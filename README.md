@@ -9,7 +9,7 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 * [M Haidar Hanif](https://github.com/mhaidarh)
 * [Aditia Darmadi Jiwandono](https://github.com/aditiadj)
 * [Albert Fajar Yuga Yusdi Putra]()
-* [Angeline Go]()
+* [Angeline Go](https://github.com/angelinego)
 * [Ferryal Muhamad Fajar Bahari](https://github.com/ferryal)
 * [Fikri Muhammad](https://github.com/FikrimSanad)
 * [Miftahul Agtamas Fidyawan]()

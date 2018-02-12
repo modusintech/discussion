@@ -1,5 +1,17 @@
 # discussion
 
-Modusin Discussion Board
+#Modusin Discussion Board
+The goal of this discussion is to clone a Medium web app, called Modusin.
 
-Project goal: cloning online publishing platform https://medium.com/
+#Members
+Aditia Darmadi Jiwandono
+Albert Fajar Yuga Yusdi Putra
+Angeline Go
+Ferryal Muhamad Fajar Bahari
+Fikri Muhammad
+Miftahul Agtamas Fidyawan
+Muhammad Fahri Abdul Hakim
+Muhammad Haekal
+Muhammad Haidar Dzaky
+Nina Kartina
+Oliver Audhie

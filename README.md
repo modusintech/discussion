@@ -2,6 +2,8 @@
 
 The goal of this discussion is to clone a [Medium](https://medium.com) web app, called [Modusin](https://modusin.com).
 
+--------------------------------------------------------------------------------
+
 ## Members
 
 * [M Haidar Hanif](https://github.com/mhaidarh)
@@ -16,3 +18,9 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 * [Muhammad Haidar Dzaky]()
 * [Nina Kartina]()
 * [Oliver Audhie]()
+
+--------------------------------------------------------------------------------
+
+## License
+
+[The Unlicense](./LICENSE)

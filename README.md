@@ -4,6 +4,7 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 
 ## Members
 
+* [M Haidar Hanif](https://github.com/mhaidarh)
 * [Aditia Darmadi Jiwandono]()
 * [Albert Fajar Yuga Yusdi Putra]()
 * [Angeline Go]()

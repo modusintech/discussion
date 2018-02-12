@@ -2,7 +2,7 @@
 
 The goal of this discussion is to clone a [Medium](https://medium.com) web app, called [Modusin](https://modusin.com).
 
---------------------------------------------------------------------------------
+---
 
 ## Members
 
@@ -21,7 +21,7 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 * [Nina Kartina]()
 * [Oliver Audhie]()
 
---------------------------------------------------------------------------------
+---
 
 ## License
 

@@ -12,6 +12,6 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 * [Miftahul Agtamas Fidyawan]()
 * [Muhammad Fahri Abdul Hakim]()
 * [Muhammad Haekal]()
-* [Muhammad Haidar Dzaky]()
+* [Muhammad Haidar Dzaky](https://github.com/haidardzaky)
 * [Nina Kartina]()
 * [Oliver Audhie]()

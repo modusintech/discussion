@@ -15,3 +15,10 @@ The goal of this discussion is to clone a [Medium](https://medium.com) web app, 
 * [Muhammad Haidar Dzaky]()
 * [Nina Kartina]()
 * [Oliver Audhie]()
+
+--------------------------------------------------------------------------------
+
+## License
+
+[The Unlicense](./LICENSE)
+

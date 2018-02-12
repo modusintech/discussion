@@ -1,17 +1,26 @@
-# discussion
+# Modusin Discussion Board
 
-#Modusin Discussion Board
-The goal of this discussion is to clone a Medium web app, called Modusin.
+The goal of this discussion is to clone a [Medium](https://medium.com) web app, called [Modusin](https://modusin.com).
 
-#Members
-Aditia Darmadi Jiwandono
-Albert Fajar Yuga Yusdi Putra
-Angeline Go (https://github.com/angelinego)
-Ferryal Muhamad Fajar Bahari
-Fikri Muhammad
-Miftahul Agtamas Fidyawan
-Muhammad Fahri Abdul Hakim
-Muhammad Haekal
-Muhammad Haidar Dzaky
-Nina Kartina
-Oliver Audhie
+---
+
+## Members
+
+* [M Haidar Hanif](https://github.com/mhaidarh)
+* [Aditia Darmadi Jiwandono]()
+* [Albert Fajar Yuga Yusdi Putra]()
+* [Angeline Go]()
+* [Ferryal Muhamad Fajar Bahari](https://github.com/ferryal)
+* [Fikri Muhammad]()
+* [Miftahul Agtamas Fidyawan]()
+* [Muhammad Fahri Abdul Hakim](https://github.com/fahriabdhakim)
+* [Muhammad Haekal](https://github.com/muhammadhaekal)
+* [Muhammad Haidar Dzaky]()
+* [Nina Kartina]()
+* [Oliver Audhie]()
+
+---
+
+## License
+
+[The Unlicense](./LICENSE)

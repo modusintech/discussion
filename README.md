@@ -6,7 +6,7 @@ The goal of this discussion is to clone a Medium web app, called Modusin.
 #Members
 Aditia Darmadi Jiwandono
 Albert Fajar Yuga Yusdi Putra
-Angeline Go
+Angeline Go (https://github.com/angelinego)
 Ferryal Muhamad Fajar Bahari
 Fikri Muhammad
 Miftahul Agtamas Fidyawan
